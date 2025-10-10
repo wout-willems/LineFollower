@@ -11,4 +11,4 @@
 |         6|microcontroller|arduino leonardo|recup|              |1|         |
 |         7|wielen|            |nieuw|              |      |         |
 |         8|batterijhouder|2x18650 batterijhouder|nieuw|              |1|         |
-|         9|    |            |           |              |      |         |
+|         9|oplader batterijen|            |           |              |      |         |
