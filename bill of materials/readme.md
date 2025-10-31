@@ -5,10 +5,10 @@
 |----------|----|------------|-----------|---------|------|---------|
 |         1|motoren|N20 micro metal gear motors (30:1)|nieuw|€2.64|4|€10.56|
 |         2|batterijen|Lithium 18650|nieuw|€8.42|1|€8.42|
-|         3|H-brug|TB6612FNG|nieuw|              |2|         |
-|         4|Sensoren|HY-S301|nieuw|              |2| |
+|         3|H-brug|TB6612FNG|nieuw|€1.07|2|€2.14|
+|         4|Sensoren|HY-S301|nieuw|€2.99|1|€2.99|
 |         5|bluetooth|HC-05|nieuw|              |2|         |
-|         6|microcontroller|arduino leonardo|recup|              |1|         |
-|         7|wielen|            |nieuw|              |      |         |
+|         6|microcontroller|arduino leonardo|recup|/|1|/|
+|         7|wielen|⌀34|nieuw|€0.35|2|€0.70|
 |         8|batterijhouder|2x18650 batterijhouder|nieuw|              |1|         |
 |         9|oplader batterijen|            |           |              |      |         |
