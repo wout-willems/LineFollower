@@ -11,5 +11,5 @@
 |         6|microcontroller|arduino nano|recup|€6.80|1|€6.80|
 |         7|wielen|⌀34|nieuw|€0.35|2|€0.70|
 |         8|Frame|3D-print|nieuw|€1.20|1|€1.20|
-|         9|weerstanden|1kΩ|recup||3||
-|         10|schakelaar||recup||||
+|         9|weerstanden|1kΩ|recup|€0|3|€0|
+|         10|schakelaar|dubbelpolig|recup|€0|1|€0|
