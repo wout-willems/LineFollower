@@ -1,3 +1,3 @@
 # Sensoren proof of concept
 
-minimale hard- en software die aantoont dat minimaal 6 sensoren onafhankelijk van elkaar kunnen uitgelezen worden (geen calibratie, normalisatie of interpolatie). Hierbij moet een zo groot mogelijk bereik van de AD converter benut worden (indien van toepassing)
+De sensoren moeten boven een zwart/wit blad gehouden worden (3-10 mm hoogte) de sensoren die boven een zwart deel zitten zullen een lage waarde hebben en de sensoren die boven een zwart deel hangen zullen een hogere waarde hebben. (bereik: 0-1023)
