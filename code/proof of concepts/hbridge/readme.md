@@ -1,3 +1,3 @@
 # H-Bridge proof of concept
 
-minimale hard- & software + stappenplan dat aantoont dat 2 motoren onafhankelijk van elkaar kunnen draaien, en (traploos) regelbaar zijn in snelheid en draairichting.
+Je schakelt de schakelaar aan, vervolgens zal de robot geleidelijk vooruit versnellen, dan stopt hij en zal hij achteruit versnellen. Hierna zullen beide wielen in tegengestelde richting versnellen en hierna wisselen ze nog eens om van richting.
