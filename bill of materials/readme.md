@@ -13,3 +13,4 @@
 |         8|Frame|3D-print|nieuw|€1.20|1|€1.20|
 |         9|weerstanden|1kΩ|recup|€0|3|€0|
 |         10|schakelaar|dubbelpolig|recup|€0|1|€0|
+|         TOTAAL||||||€34.45|
